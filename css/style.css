@@ -1647,3 +1647,20 @@ background: #F9F9F9;
 width: 99%;
 }
 }}
+
+
+
+
+/*---- GALERIA ----*/
+  .gallery {
+    display: grid;
+    max-width: 1140px;
+    grid-gap: 15px;
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
